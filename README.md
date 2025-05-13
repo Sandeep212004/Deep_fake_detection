@@ -14,10 +14,10 @@ This project aims to detect deepfake videos by analyzing facial features and inc
 ## Directory Structure
 
 Deep_fake_detection/
-├── Deepfake_Backend/ # Backend code for detection and processing
-├── deepfake_frontend/ # Frontend interface using Streamlit
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+- Deepfake_Backend/ # Backend code for detection and processing
+- deepfake_frontend/ # Frontend interface using Streamlit
+─ requirements.txt # Python dependencies
+─ README.md # Project documentation
 
 markdown
 Copy
